@@ -1,0 +1,138 @@
+
+
+for dataset 0 :
+
+
+model: Nearest Neighbors
+accuracy: 0.905
+
+
+model: Linear SVM
+accuracy: 0.8675
+
+
+model: RBF SVM
+accuracy: 0.918125
+
+
+model: Decision Tree
+accuracy: 0.908125
+
+
+model: Random Forest
+accuracy: 0.91875
+
+
+for dataset 0 with transformations:
+
+
+model: Nearest Neighbors
+accuracy: 0.908125
+
+
+model: Linear SVM
+accuracy: 0.885
+
+
+model: RBF SVM
+accuracy: 0.92125
+
+
+model: Decision Tree
+accuracy: 0.90875
+
+
+model: Random Forest
+accuracy: 0.915625
+
+
+for dataset 1 :
+
+
+model: Nearest Neighbors
+accuracy: 0.85625
+
+
+model: Linear SVM
+accuracy: 0.5375
+
+
+model: RBF SVM
+accuracy: 0.885625
+
+
+model: Decision Tree
+accuracy: 0.8575
+
+
+model: Random Forest
+accuracy: 0.864375
+
+
+for dataset 1 with transformations:
+
+
+model: Nearest Neighbors
+accuracy: 0.868125
+
+
+model: Linear SVM
+accuracy: 0.886875
+
+
+model: RBF SVM
+accuracy: 0.889375
+
+
+model: Decision Tree
+accuracy: 0.870625
+
+
+model: Random Forest
+accuracy: 0.8775
+
+
+for dataset 2 :
+
+
+model: Nearest Neighbors
+accuracy: 0.894375
+
+
+model: Linear SVM
+accuracy: 0.906875
+
+
+model: RBF SVM
+accuracy: 0.915625
+
+
+model: Decision Tree
+accuracy: 0.901875
+
+
+model: Random Forest
+accuracy: 0.91625
+
+
+for dataset 2 with transformations:
+
+
+model: Nearest Neighbors
+accuracy: 0.888125
+
+
+model: Linear SVM
+accuracy: 0.90875
+
+
+model: RBF SVM
+accuracy: 0.903125
+
+
+model: Decision Tree
+accuracy: 0.89875
+
+
+model: Random Forest
+accuracy: 0.90625

@@ -1,0 +1,973 @@
+test 0random state: 65
+accuracy without :0.83375
+accuracy with :0.77125
+
+test 1random state: 0
+accuracy without :0.88375
+accuracy with :0.8775
+
+test 2random state: 155
+accuracy without :0.75125
+accuracy with :0.75
+
+test 3random state: 48
+accuracy without :0.87375
+accuracy with :0.8075
+
+test 4random state: 17
+accuracy without :0.83125
+accuracy with :0.7575
+
+test 5random state: 175
+accuracy without :0.8375
+accuracy with :0.7825
+
+test 6random state: 47
+accuracy without :0.91
+accuracy with :0.86625
+
+test 7random state: 66
+accuracy without :0.7675
+accuracy with :0.76875
+
+test 0random state: 87
+accuracy without :0.86125
+accuracy with :0.845
+
+test 1random state: 7
+accuracy without :0.88125
+accuracy with :0.88375
+
+test 0random state: 98
+accuracy without :0.7775
+accuracy with :0.7875
+
+test 1random state: 147
+accuracy without :0.7975
+accuracy with :0.76625
+
+test 2random state: 148
+accuracy without :0.67125
+accuracy with :0.65375
+
+test 0random state: 144
+accuracy without :0.87875
+accuracy with :0.8625
+
+test 1random state: 100
+accuracy without :0.7175
+accuracy with :0.6475
+
+test 2random state: 195
+accuracy without :0.83625
+accuracy with :0.8275
+
+test 3random state: 2
+accuracy without :0.88
+accuracy with :0.825
+
+test 4random state: 179
+accuracy without :0.835
+accuracy with :0.83625
+
+test 0random state: 164
+accuracy without :0.8125
+accuracy with :0.63875
+
+test 0random state: 134
+accuracy without :0.80875
+accuracy with :0.79875
+
+test 1random state: 84
+accuracy without :0.84
+accuracy with :0.8175
+
+test 0random state: 60
+accuracy without :0.86375
+accuracy with :0.80125
+
+test 1random state: 175
+accuracy without :0.8375
+accuracy with :0.80375
+
+test 2random state: 162
+accuracy without :0.78125
+accuracy with :0.78375
+
+test 3random state: 166
+accuracy without :0.82125
+accuracy with :0.785
+
+test 4random state: 194
+accuracy without :0.77
+accuracy with :0.7325
+
+test 0random state: 134
+accuracy without :0.80875
+accuracy with :0.80625
+
+test 1random state: 12
+accuracy without :0.85875
+accuracy with :0.85
+
+test 2random state: 124
+accuracy without :0.84375
+accuracy with :0.83625
+
+test 0random state: 49
+accuracy without :0.8175
+accuracy with :0.81625
+
+test 1random state: 177
+accuracy without :0.83125
+accuracy with :0.8275
+
+test 0random state: 0
+accuracy without :0.88375
+accuracy with :0.8725
+
+test 0random state: 196
+accuracy without :0.84375
+accuracy with :0.8425
+
+test 1random state: 107
+accuracy without :0.77875
+accuracy with :0.7875
+
+test 2random state: 131
+accuracy without :0.88375
+accuracy with :0.89
+
+test 3random state: 146
+accuracy without :0.88625
+accuracy with :0.8625
+
+test 4random state: 122
+accuracy without :0.85125
+accuracy with :0.7275
+
+test 5random state: 118
+accuracy without :0.88375
+accuracy with :0.83875
+
+test 6random state: 38
+accuracy without :0.875
+accuracy with :0.87375
+
+test 7random state: 140
+accuracy without :0.81875
+accuracy with :0.805
+
+test 8random state: 48
+accuracy without :0.87375
+accuracy with :0.84
+
+test 0random state: 5
+accuracy without :0.855
+accuracy with :0.8575
+
+test 1random state: 41
+accuracy without :0.8425
+accuracy with :0.84625
+
+test 2random state: 155
+accuracy without :0.75125
+accuracy with :0.75125
+
+test 3random state: 102
+accuracy without :0.71125
+accuracy with :0.71125
+
+test 4random state: 142
+accuracy without :0.72875
+accuracy with :0.70875
+
+test 5random state: 79
+accuracy without :0.80625
+accuracy with :0.80625
+
+test 6random state: 195
+accuracy without :0.83625
+accuracy with :0.8375
+
+test 7random state: 5
+accuracy without :0.855
+accuracy with :0.85375
+
+test 8random state: 17
+accuracy without :0.83125
+accuracy with :0.83625
+
+test 9random state: 81
+accuracy without :0.81125
+accuracy with :0.7875
+
+test 10random state: 28
+accuracy without :0.83875
+accuracy with :0.75125
+
+test 11random state: 120
+accuracy without :0.86375
+accuracy with :0.83625
+
+test 12random state: 41
+accuracy without :0.8425
+accuracy with :0.8425
+
+test 0random state: 117
+accuracy without :0.88625
+accuracy with :0.85125
+
+test 1random state: 197
+accuracy without :0.84875
+accuracy with :0.84375
+
+test 2random state: 95
+accuracy without :0.775
+accuracy with :0.75875
+
+test 3random state: 104
+accuracy without :0.90625
+accuracy with :0.885
+
+test 0random state: 125
+accuracy without :0.92625
+accuracy with :0.93125
+
+test 1random state: 142
+accuracy without :0.7275
+accuracy with :0.72875
+
+test 2random state: 123
+accuracy without :0.80625
+accuracy with :0.80625
+
+test 3random state: 189
+accuracy without :0.84
+accuracy with :0.84
+
+test 4random state: 61
+accuracy without :0.9075
+accuracy with :0.86625
+
+test 5random state: 64
+accuracy without :0.79375
+accuracy with :0.79375
+
+test 6random state: 165
+accuracy without :0.6825
+accuracy with :0.68125
+
+test 7random state: 110
+accuracy without :0.90875
+accuracy with :0.90875
+
+test 8random state: 6
+accuracy without :0.8075
+accuracy with :0.80875
+
+test 9random state: 52
+accuracy without :0.8225
+accuracy with :0.82375
+
+test 10random state: 89
+accuracy without :0.695
+accuracy with :0.68375
+
+test 11random state: 8
+accuracy without :0.8475
+accuracy with :0.85625
+
+test 12random state: 127
+accuracy without :0.82
+accuracy with :0.815
+
+test 13random state: 34
+accuracy without :0.82125
+accuracy with :0.81625
+
+test 14random state: 32
+accuracy without :0.79625
+accuracy with :0.79625
+
+test 15random state: 133
+accuracy without :0.8175
+accuracy with :0.82
+
+test 16random state: 128
+accuracy without :0.87375
+accuracy with :0.8675
+
+test 17random state: 198
+accuracy without :0.845
+accuracy with :0.845
+
+test 18random state: 157
+accuracy without :0.91
+accuracy with :0.91
+
+test 19random state: 118
+accuracy without :0.885
+accuracy with :0.88875
+
+test 20random state: 187
+accuracy without :0.89625
+accuracy with :0.89625
+
+test 21random state: 170
+accuracy without :0.925
+accuracy with :0.8925
+
+test 22random state: 145
+accuracy without :0.8675
+accuracy with :0.8675
+
+test 23random state: 132
+accuracy without :0.73125
+accuracy with :0.74125
+
+test 24random state: 125
+accuracy without :0.92625
+accuracy with :0.92625
+
+test 25random state: 78
+accuracy without :0.8625
+accuracy with :0.8625
+
+test 26random state: 39
+accuracy without :0.64875
+accuracy with :0.635
+
+test 27random state: 84
+accuracy without :0.845
+accuracy with :0.8425
+
+test 28random state: 77
+accuracy without :0.79625
+accuracy with :0.79625
+
+test 29random state: 151
+accuracy without :0.8175
+accuracy with :0.8175
+
+test 30random state: 8
+accuracy without :0.8475
+accuracy with :0.84875
+
+test 31random state: 17
+accuracy without :0.83125
+accuracy with :0.83125
+
+test 32random state: 144
+accuracy without :0.87375
+accuracy with :0.87375
+
+test 33random state: 85
+accuracy without :0.7475
+accuracy with :0.7475
+
+test 34random state: 143
+accuracy without :0.885
+accuracy with :0.88375
+
+test 35random state: 42
+accuracy without :0.74875
+accuracy with :0.75
+
+test 36random state: 107
+accuracy without :0.785
+accuracy with :0.785
+
+test 37random state: 51
+accuracy without :0.8425
+accuracy with :0.85625
+
+test 38random state: 54
+accuracy without :0.78
+accuracy with :0.76
+
+test 39random state: 128
+accuracy without :0.87375
+accuracy with :0.87625
+
+test 40random state: 48
+accuracy without :0.88
+accuracy with :0.85625
+
+test 41random state: 51
+accuracy without :0.8425
+accuracy with :0.84125
+
+test 42random state: 198
+accuracy without :0.845
+accuracy with :0.845
+
+test 43random state: 110
+accuracy without :0.90875
+accuracy with :0.9075
+
+test 44random state: 74
+accuracy without :0.77625
+accuracy with :0.77375
+
+test 45random state: 30
+accuracy without :0.745
+accuracy with :0.745
+
+test 46random state: 116
+accuracy without :0.84
+accuracy with :0.7975
+
+test 47random state: 122
+accuracy without :0.84625
+accuracy with :0.84375
+
+test 48random state: 7
+accuracy without :0.88875
+accuracy with :0.8775
+
+test 49random state: 179
+accuracy without :0.83875
+accuracy with :0.83875
+
+test 50random state: 125
+accuracy without :0.92625
+accuracy with :0.92375
+
+test 51random state: 63
+accuracy without :0.88375
+accuracy with :0.88375
+
+test 52random state: 186
+accuracy without :0.83
+accuracy with :0.805
+
+test 53random state: 17
+accuracy without :0.83125
+accuracy with :0.83125
+
+test 54random state: 15
+accuracy without :0.76875
+accuracy with :0.76125
+
+test 55random state: 200
+accuracy without :0.8775
+accuracy with :0.87625
+
+test 56random state: 155
+accuracy without :0.7525
+accuracy with :0.7525
+
+test 57random state: 30
+accuracy without :0.745
+accuracy with :0.74
+
+test 58random state: 91
+accuracy without :0.745
+accuracy with :0.745
+
+test 59random state: 135
+accuracy without :0.78375
+accuracy with :0.7625
+
+test 0
+random state: 194
+accuracy without :0.77625
+accuracy with :0.7725
+
+test 1
+random state: 48
+accuracy without :0.88
+accuracy with :0.85625
+
+test 2
+random state: 108
+accuracy without :0.8425
+accuracy with :0.79125
+
+test 3
+random state: 110
+accuracy without :0.90875
+accuracy with :0.91
+
+test 4
+random state: 74
+accuracy without :0.77625
+accuracy with :0.77625
+
+test 5
+random state: 78
+accuracy without :0.8625
+accuracy with :0.835
+
+test 6
+random state: 107
+accuracy without :0.785
+accuracy with :0.77375
+
+test 7
+random state: 16
+accuracy without :0.90875
+accuracy with :0.90875
+
+test 8
+random state: 102
+accuracy without :0.70375
+accuracy with :0.705
+
+test 9
+random state: 142
+accuracy without :0.7275
+accuracy with :0.71125
+
+test 10
+random state: 148
+accuracy without :0.6575
+accuracy with :0.605
+
+test 11
+random state: 106
+accuracy without :0.92625
+accuracy with :0.9275
+
+test 12
+random state: 149
+accuracy without :0.7925
+accuracy with :0.7925
+
+test 13
+random state: 140
+accuracy without :0.80875
+accuracy with :0.78
+
+test 14
+random state: 15
+accuracy without :0.76875
+accuracy with :0.75875
+
+test 15
+random state: 151
+accuracy without :0.8175
+accuracy with :0.805
+
+test 16
+random state: 163
+accuracy without :0.895
+accuracy with :0.89125
+
+test 17
+random state: 180
+accuracy without :0.81375
+accuracy with :0.73875
+
+test 18
+random state: 97
+accuracy without :0.8675
+accuracy with :0.85875
+
+test 19
+random state: 56
+accuracy without :0.83875
+accuracy with :0.8375
+
+test 20
+random state: 28
+accuracy without :0.84125
+accuracy with :0.75125
+
+test 21
+random state: 6
+accuracy without :0.8075
+accuracy with :0.80625
+
+test 22
+random state: 141
+accuracy without :0.7375
+accuracy with :0.73375
+
+test 23
+random state: 163
+accuracy without :0.895
+accuracy with :0.86625
+
+test 24
+random state: 122
+accuracy without :0.84625
+accuracy with :0.84625
+
+test 25
+random state: 119
+accuracy without :0.6825
+accuracy with :0.6825
+
+test 26
+random state: 29
+accuracy without :0.82
+accuracy with :0.82
+
+test 27
+random state: 104
+accuracy without :0.90625
+accuracy with :0.90625
+
+test 28
+random state: 141
+accuracy without :0.7375
+accuracy with :0.7375
+
+test 29
+random state: 194
+accuracy without :0.77625
+accuracy with :0.77625
+
+test 30
+random state: 69
+accuracy without :0.91
+accuracy with :0.91
+
+test 31
+random state: 6
+accuracy without :0.8075
+accuracy with :0.80625
+
+test 32
+random state: 27
+accuracy without :0.76375
+accuracy with :0.76125
+
+test 33
+random state: 60
+accuracy without :0.865
+accuracy with :0.86375
+
+test 34
+random state: 92
+accuracy without :0.72125
+accuracy with :0.72125
+
+test 35
+random state: 63
+accuracy without :0.88375
+accuracy with :0.88125
+
+test 36
+random state: 116
+accuracy without :0.84
+accuracy with :0.84125
+
+test 37
+random state: 30
+accuracy without :0.745
+accuracy with :0.74375
+
+test 38
+random state: 17
+accuracy without :0.83125
+accuracy with :0.83125
+
+test 39
+random state: 199
+accuracy without :0.80375
+accuracy with :0.805
+
+test 40
+random state: 98
+accuracy without :0.7825
+accuracy with :0.78875
+
+test 41
+random state: 100
+accuracy without :0.71
+accuracy with :0.715
+
+test 42
+random state: 176
+accuracy without :0.785
+accuracy with :0.785
+
+test 43
+random state: 61
+accuracy without :0.9075
+accuracy with :0.86
+
+test 44
+random state: 148
+accuracy without :0.6575
+accuracy with :0.655
+
+test 45
+random state: 194
+accuracy without :0.77625
+accuracy with :0.77625
+
+test 46
+random state: 110
+accuracy without :0.90875
+accuracy with :0.9075
+
+test 47
+random state: 166
+accuracy without :0.81625
+accuracy with :0.81625
+
+test 48
+random state: 40
+accuracy without :0.84625
+accuracy with :0.84625
+
+test 49
+random state: 88
+accuracy without :0.76875
+accuracy with :0.76875
+
+test 50
+random state: 124
+accuracy without :0.83375
+accuracy with :0.83375
+
+test 51
+random state: 83
+accuracy without :0.79375
+accuracy with :0.79625
+
+test 52
+random state: 28
+accuracy without :0.84125
+accuracy with :0.83875
+
+test 53
+random state: 105
+accuracy without :0.87375
+accuracy with :0.865
+
+test 54
+random state: 82
+accuracy without :0.82625
+accuracy with :0.82125
+
+test 55
+random state: 85
+accuracy without :0.7475
+accuracy with :0.7475
+
+test 56
+random state: 20
+accuracy without :0.87375
+accuracy with :0.85625
+
+test 57
+random state: 29
+accuracy without :0.82
+accuracy with :0.82
+
+test 58
+random state: 121
+accuracy without :0.94
+accuracy with :0.88
+
+test 59
+random state: 90
+accuracy without :0.93125
+accuracy with :0.93625
+
+test 60
+random state: 55
+accuracy without :0.84375
+accuracy with :0.84375
+
+test 61
+random state: 147
+accuracy without :0.795
+accuracy with :0.79625
+
+test 62
+random state: 8
+accuracy without :0.8475
+accuracy with :0.84125
+
+test 63
+random state: 53
+accuracy without :0.67875
+accuracy with :0.67875
+
+test 64
+random state: 114
+accuracy without :0.82125
+accuracy with :0.77125
+
+test 65
+random state: 27
+accuracy without :0.76375
+accuracy with :0.75125
+
+test 66
+random state: 71
+accuracy without :0.75
+accuracy with :0.7375
+
+test 67
+random state: 200
+accuracy without :0.8775
+accuracy with :0.86625
+
+test 68
+random state: 116
+accuracy without :0.84
+accuracy with :0.8375
+
+test 69
+random state: 71
+accuracy without :0.75
+accuracy with :0.75125
+
+test 70
+random state: 50
+accuracy without :0.79375
+accuracy with :0.79375
+
+test 71
+random state: 6
+accuracy without :0.8075
+accuracy with :0.80625
+
+test 72
+random state: 53
+accuracy without :0.67875
+accuracy with :0.67875
+
+test 73
+random state: 176
+accuracy without :0.785
+accuracy with :0.785
+
+test 74
+random state: 16
+accuracy without :0.90875
+accuracy with :0.91
+
+test 75
+random state: 65
+accuracy without :0.83125
+accuracy with :0.83
+
+test 76
+random state: 40
+accuracy without :0.84625
+accuracy with :0.845
+
+test 77
+random state: 15
+accuracy without :0.76875
+accuracy with :0.76875
+
+test 78
+random state: 190
+accuracy without :0.8075
+accuracy with :0.795
+
+test 79
+random state: 120
+accuracy without :0.86125
+accuracy with :0.86125
+
+test 80
+random state: 152
+accuracy without :0.73625
+accuracy with :0.73625
+
+test 81
+random state: 163
+accuracy without :0.895
+accuracy with :0.87375
+
+test 82
+random state: 85
+accuracy without :0.7475
+accuracy with :0.7475
+
+test 83
+random state: 131
+accuracy without :0.8925
+accuracy with :0.88375
+
+test 84
+random state: 75
+accuracy without :0.94875
+accuracy with :0.9425
+
+test 85
+random state: 99
+accuracy without :0.83625
+accuracy with :0.83625
+
+test 86
+random state: 48
+accuracy without :0.88
+accuracy with :0.88125
+
+test 87
+random state: 32
+accuracy without :0.79625
+accuracy with :0.79625
+
+test 88
+random state: 111
+accuracy without :0.8525
+accuracy with :0.8525
+
+test 89
+random state: 116
+accuracy without :0.84
+accuracy with :0.8425
+
+test 90
+random state: 189
+accuracy without :0.84
+accuracy with :0.84
+
+test 91
+random state: 3
+accuracy without :0.84375
+accuracy with :0.84375
+
+test 92
+random state: 34
+accuracy without :0.82125
+accuracy with :0.8175
+
+test 93
+random state: 117
+accuracy without :0.88625
+accuracy with :0.8875
+
+test 94
+random state: 30
+accuracy without :0.745
+accuracy with :0.74
+
+test 95
+random state: 146
+accuracy without :0.88375
+accuracy with :0.82625
+
+test 96
+random state: 128
+accuracy without :0.87375
+accuracy with :0.87
+
+test 97
+random state: 133
+accuracy without :0.8175
+accuracy with :0.81875
+
+test 98
+random state: 61
+accuracy without :0.9075
+accuracy with :0.86625
+
+test 99
+random state: 120
+accuracy without :0.86125
+accuracy with :0.86125
+
+Among 100 tests we had 16 improved solutions and 49 worse solutions

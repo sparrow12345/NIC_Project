@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_report.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: referens.bib
+Warning--there's a number but no series in menard2002applied
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            579 strings with 6531 characters,
+and the built_in function-call counts, 3908 in all, are:
+= -- 384
+> -- 167
+< -- 2
++ -- 70
+- -- 54
+* -- 225
+:= -- 679
+add.period$ -- 48
+call.type$ -- 14
+change.case$ -- 68
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 147
+empty$ -- 323
+format.name$ -- 54
+if$ -- 814
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 11
+newline$ -- 77
+num.names$ -- 28
+pop$ -- 86
+preamble$ -- 1
+purify$ -- 55
+quote$ -- 0
+skip$ -- 101
+stack$ -- 0
+substring$ -- 181
+swap$ -- 25
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 1
+while$ -- 37
+width$ -- 16
+write$ -- 155
+(There was 1 warning)

@@ -1,0 +1,35 @@
+test 0
+random state: 90, inf feat: 6, red feat: 9
+accuracy with 25 features :0.86125
+accuracy with 7 features removed:0.86125
+
+test 1
+random state: 141, inf feat: 12, red feat: 10
+accuracy with 25 features :0.7825
+accuracy with 8 features removed:0.7825
+
+test 2
+random state: 87, inf feat: 9, red feat: 10
+accuracy with 25 features :0.925
+accuracy with 8 features removed:0.92375
+
+test 3
+random state: 98, inf feat: 11, red feat: 10
+accuracy with 25 features :0.8
+accuracy with 7 features removed:0.8
+
+test 0
+random state: 130, inf feat: 5, red feat: 8
+accuracy with 25 features :0.81625
+accuracy with 7 features removed:0.8175
+
+test 1
+random state: 23, inf feat: 14, red feat: 8
+accuracy with 25 features :0.82875
+accuracy with 8 features removed:0.8225
+
+test 2
+random state: 188, inf feat: 10, red feat: 9
+accuracy with 25 features :0.89
+accuracy with 7 features removed:0.89
+

@@ -1,0 +1,55 @@
+test 0
+random state: 66, inf feat: 6, red feat: 9
+accuracy with 25 features :0.7325
+accuracy with 7 features removed:0.7325
+
+test 1
+random state: 121, inf feat: 5, red feat: 8
+accuracy with 25 features :0.91125
+accuracy with 6 features removed:0.91125
+
+test 2
+random state: 49, inf feat: 14, red feat: 6
+accuracy with 25 features :0.87625
+accuracy with 6 features removed:0.87375
+
+test 3
+random state: 77, inf feat: 7, red feat: 6
+accuracy with 25 features :0.93
+accuracy with 5 features removed:0.93
+
+test 4
+random state: 19, inf feat: 6, red feat: 8
+accuracy with 25 features :0.7925
+accuracy with 7 features removed:0.7925
+
+test 5
+random state: 153, inf feat: 11, red feat: 7
+accuracy with 25 features :0.8625
+accuracy with 6 features removed:0.86125
+
+test 6
+random state: 112, inf feat: 6, red feat: 7
+accuracy with 25 features :0.78125
+accuracy with 6 features removed:0.78
+
+test 7
+random state: 29, inf feat: 11, red feat: 10
+accuracy with 25 features :0.81375
+accuracy with 7 features removed:0.81375
+
+test 8
+random state: 15, inf feat: 10, red feat: 12
+accuracy with 25 features :0.87375
+accuracy with 8 features removed:0.8725
+
+test 9
+random state: 76, inf feat: 5, red feat: 8
+accuracy with 25 features :0.9675
+accuracy with 6 features removed:0.9675
+
+test 10
+random state: 147, inf feat: 14, red feat: 10
+accuracy with 25 features :0.87625
+accuracy with 8 features removed:0.87625
+
